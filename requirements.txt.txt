@@ -1,0 +1,10 @@
+streamlit
+scikit-learn
+pandas
+numpy
+beautifulsoup4
+requests
+joblib
+schedule
+lxml
+joblib
